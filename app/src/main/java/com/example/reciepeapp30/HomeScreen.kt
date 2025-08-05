@@ -67,10 +67,3 @@ fun HomeScreen(
 }
 
 
-@Preview
-@Composable
-private fun HomePreview() {
-    HomeScreen(navtoCategoryScreen = { /*TODO*/ }, navtoAreaScreen = { /*TODO*/ }) {
-
-    }
-}
