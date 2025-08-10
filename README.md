@@ -21,13 +21,10 @@ Built with **Jetpack Compose**, **MVVM Architecture**, and **Retrofit**, powered
 
 ## 🖼 Screenshots
 
-| Home Screen | Categories | Recipe Details |
+| Home Screen | Categories | Recipe Details | Video Tutorial |
 |-------------|------------|----------------|
-| ![Home](screenshots/home.jpg) | ![Categories](screenshots/categories.jpg) | ![Details](screenshots/details.jpg) |
+| ![Home](screenshots/Homepage.jpg) | ![Categories](screenshots/Categorypage.jpg) | ![Details](screenshots/Reciepepage.jpg) | ![Areas](screenshots/Areaspage.jpg) |
 
-| Ingredients List | Video Tutorial |
-|------------------|----------------|
-| ![Ingredients](screenshots/ingredients.jpg) | ![Video](screenshots/video.jpg) |
 
 > *(Replace `screenshots/...` with your actual image paths in the repo)*
 
