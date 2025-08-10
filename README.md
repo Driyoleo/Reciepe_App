@@ -22,6 +22,8 @@ Built with **Jetpack Compose**, **MVVM Architecture**, and **Retrofit**, powered
 ## 🖼 Screenshots
 
 | Home Screen | Categories | Recipe Details | Areas |
+.....
+
 | ![Home](screenshots/Homepage.jpg) | ![Categories](screenshots/Categorypage.jpg) | ![Details](screenshots/Reciepepage.jpg) | ![Areas](screenshots/Areaspage.jpg) |
 
 ---
